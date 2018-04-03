@@ -3,6 +3,19 @@
     font-family: 'Oleo Script', cursive;
     color:#fcc500;
     font-size: 45px;
+    
+  }
+  .container-fluid{
+    background-color:blanchedalmond;
+  }
+  footer{
+    text-decoration-color: white;
+    background-color: rgb(240, 196, 155);
+  }
+  #contact{
+    background-color: blanchedalmond;
+    margin-top: -8px;
+    margin-bottom: -16px;
   }
   
   
