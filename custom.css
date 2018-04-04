@@ -17,5 +17,12 @@
     margin-top: -8px;
     margin-bottom: -16px;
   }
-  
+  .img-fluid{
+    background-color: rgb(247, 161, 2);
+    padding: 2%;
+  }
+  p,h5{
+    font-size:20px;
+    font-family: 'Lobster', cursive;
+  }
   
